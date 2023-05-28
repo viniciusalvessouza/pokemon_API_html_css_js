@@ -1,0 +1,72 @@
+/* lista de cores para mudar o card e o modal, conforme o type ṕrincipal do pokemon */
+.normal{
+    background-color: rgb(182, 182, 168);
+}
+
+.fire{
+    background-color: rgb(255, 68, 34);
+}
+
+.water{
+    background-color: rgb(51, 153, 255);
+}
+
+.electric{
+    background-color: rgb(255, 204, 51);
+}
+
+.grass{
+    background-color: rgb(78, 154, 6);
+}
+
+.ice{
+    background-color: rgb(102, 204, 255);
+}
+
+.fighting{
+    background-color: rgb(181, 82, 65);
+}
+
+.poison{
+    background-color: rgb(170, 85, 153);
+}
+
+.ground{
+    background-color: rgb(221, 187, 85);
+}
+
+.flying{
+    background-color: rgb(136, 153, 255);
+}
+
+.psychic{
+    background-color: rgb(255, 85, 153);
+}
+
+.bug{
+    background-color: rgb(170, 187, 34);
+}
+
+.rock{
+    background-color: rgb(182, 165, 99);
+}
+
+.ghost{
+    background-color: rgb(102, 102, 187);
+}
+
+.dragon{
+    background-color: rgb(114, 98, 229);
+}
+
+.dark{
+    background-color: rgb(119, 85, 68);
+}
+
+.steel{
+    background-color: rgb(178, 178, 186);
+}
+
+.fairy{
+    background-color: rgb(238, 153, 172);
+}
